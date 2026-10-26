@@ -1,0 +1,8 @@
+{
+  "name": "DLCO Virtual Trainer Kit",
+  "description": "Virtual laboratory equivalent of the college DLCO digital logic trainer kit featuring real pin-to-pin wiring, 74-series IC simulation, 7476 master-slave JK flip-flops, 3-bit counters, and all 11 practical exam experiments.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
